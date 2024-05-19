@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "invoice-generator-client-side-solution",
+    "id": "5efb2c8d-cd62-4d94-8f72-3e5282d0d8e5",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/invoice-generator.sppkg"
+  }
+}
